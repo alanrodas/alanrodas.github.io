@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE fronttier PUBLIC "-/Fronttier/xmlattr.dtd"
+    "http://fronttier.alanrodas.com/dtd/xmlattr.dtd">
+<fronttier group="io.github" name="font-awesome" version="4.2.0">
+    <files>
+		<file name="css/font-awesome.css"/>
+		<file name="fonts/fontawesome-webfont.eot"/>
+		<file name="fonts/fontawesome-webfont.svg"/>
+		<file name="fonts/fontawesome-webfont.ttf"/>
+		<file name="fonts/fontawesome-webfont.woff"/>
+		<file name="fonts/FontAwesome.otf"/>
+    </files>
+</fronttier>

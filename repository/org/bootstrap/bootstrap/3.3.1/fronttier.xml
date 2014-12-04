@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE fronttier PUBLIC "-/Fronttier/xmlattr.dtd"
+    "http://fronttier.alanrodas.com/dtd/xmlattr.dtd">
+<fronttier group="org.bootstrap" name="bootstrap" version="3.3.1">
+	<dependencies>
+		<dependency group="org.jquery" name="jquery" version="2.1.1"/>
+	</dependencies>
+    <files>
+        <file name="js/bootstrap.js"/>
+		<file name="css/bootstrap.css"/>
+		<file name="css/bootstrap-theme.css"/>
+		<file name="fonts/glyphicons-halflings-regular.eot"/>
+		<file name="fonts/glyphicons-halflings-regular.svg"/>
+		<file name="fonts/glyphicons-halflings-regular.ttf"/>
+		<file name="fonts/glyphicons-halflings-regular.woff"/>
+    </files>
+</fronttier>

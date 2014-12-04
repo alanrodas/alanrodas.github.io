@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE fronttier PUBLIC "-/Fronttier/xmlattr.dtd"
+    "http://fronttier.alanrodas.com/dtd/xmlattr.dtd">
+<fronttier group="org.jquery" name="jquery" version="2.1.1">
+    <files>
+        <file name="js/jquery-2.1.1.js"/>
+    </files>
+</fronttier>
